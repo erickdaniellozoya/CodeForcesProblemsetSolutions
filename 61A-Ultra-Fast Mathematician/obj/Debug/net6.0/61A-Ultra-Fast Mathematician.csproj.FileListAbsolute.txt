@@ -1,0 +1,15 @@
+C:\Users\erick\Documents\CodeForces\Problemset\61A-Ultra-Fast Mathematician\bin\Debug\net6.0\61A-Ultra-Fast Mathematician.exe
+C:\Users\erick\Documents\CodeForces\Problemset\61A-Ultra-Fast Mathematician\bin\Debug\net6.0\61A-Ultra-Fast Mathematician.deps.json
+C:\Users\erick\Documents\CodeForces\Problemset\61A-Ultra-Fast Mathematician\bin\Debug\net6.0\61A-Ultra-Fast Mathematician.runtimeconfig.json
+C:\Users\erick\Documents\CodeForces\Problemset\61A-Ultra-Fast Mathematician\bin\Debug\net6.0\61A-Ultra-Fast Mathematician.dll
+C:\Users\erick\Documents\CodeForces\Problemset\61A-Ultra-Fast Mathematician\bin\Debug\net6.0\61A-Ultra-Fast Mathematician.pdb
+C:\Users\erick\Documents\CodeForces\Problemset\61A-Ultra-Fast Mathematician\obj\Debug\net6.0\61A-Ultra-Fast Mathematician.csproj.AssemblyReference.cache
+C:\Users\erick\Documents\CodeForces\Problemset\61A-Ultra-Fast Mathematician\obj\Debug\net6.0\61A-Ultra-Fast Mathematician.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\Documents\CodeForces\Problemset\61A-Ultra-Fast Mathematician\obj\Debug\net6.0\61A-Ultra-Fast Mathematician.AssemblyInfoInputs.cache
+C:\Users\erick\Documents\CodeForces\Problemset\61A-Ultra-Fast Mathematician\obj\Debug\net6.0\61A-Ultra-Fast Mathematician.AssemblyInfo.cs
+C:\Users\erick\Documents\CodeForces\Problemset\61A-Ultra-Fast Mathematician\obj\Debug\net6.0\61A-Ultra-Fast Mathematician.csproj.CoreCompileInputs.cache
+C:\Users\erick\Documents\CodeForces\Problemset\61A-Ultra-Fast Mathematician\obj\Debug\net6.0\61A-Ultra-Fast Mathematician.dll
+C:\Users\erick\Documents\CodeForces\Problemset\61A-Ultra-Fast Mathematician\obj\Debug\net6.0\refint\61A-Ultra-Fast Mathematician.dll
+C:\Users\erick\Documents\CodeForces\Problemset\61A-Ultra-Fast Mathematician\obj\Debug\net6.0\61A-Ultra-Fast Mathematician.pdb
+C:\Users\erick\Documents\CodeForces\Problemset\61A-Ultra-Fast Mathematician\obj\Debug\net6.0\61A-Ultra-Fast Mathematician.genruntimeconfig.cache
+C:\Users\erick\Documents\CodeForces\Problemset\61A-Ultra-Fast Mathematician\obj\Debug\net6.0\ref\61A-Ultra-Fast Mathematician.dll
